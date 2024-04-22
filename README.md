@@ -1,9 +1,8 @@
 # treinamento_machine_learning
-Aula de ML - Prática em Python
-
-Machine Learning process
-Loading data
-Processing
-Trainir a model
-Evaluationg the model
-Making predictions
+<h3>Aula de ML - Prática em Python </h3>
+<b>Machine Learning process</b> <br>
+- Loading data <br>
+- Processing <br> 
+- Training a model <br> 
+- Evaluationg the model <br> 
+- Making predictions <br>
